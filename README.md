@@ -1,1 +1,1 @@
-Curso da  Algaworks de criação API REST usando o Spring
+Algaworks REST API creation course using Spring
